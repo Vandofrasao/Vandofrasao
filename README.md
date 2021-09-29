@@ -1,4 +1,4 @@
-## Olá Seja Bem vindo ao meu perfil 👋
+## Olá sou Vando 👋 Seja Bem vindo ao meu perfil 👋
 
 - 🔭 Estudante
 - 🌱 Cursando full stack
