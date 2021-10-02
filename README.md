@@ -1,9 +1,9 @@
-## Olá sou Vando 👋 Seja Bem vindo ao meu perfil 👋
+## Olá sou o Vando 
 
 - 🔭 Estudante
-- 🌱 Cursando full stack
-- 🤔 Buscando vaga
-- 💬 Estagio ou jr
+- 🌱 Desenvolvedor Web full Stack
+- 🤔 
+- 💬 
 
 <div 
   <a href="https://github.com/Vandofrasao">
