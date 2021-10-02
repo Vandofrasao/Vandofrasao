@@ -1,9 +1,7 @@
 ## Olá sou o Vando 
 
 - 🔭 Estudante
-- 🌱 Desenvolvedor Web full Stack
-- 🤔 
-- 💬 
+-🤔 Desenvolvedor Web full Stack
 
 <div 
   <a href="https://github.com/Vandofrasao">
