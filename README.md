@@ -1,6 +1,6 @@
-## Olá sou o Vando "Seja Bem vindo ao Meu Github"
+## Olá sou o Vando "Seja Bem Vindo ao meu Github"
 
-- 🔭 Estudante
+- 🔭 Estudante De Programação
 -🤔 Desenvolvedor Web full Stack
 
 <div 
