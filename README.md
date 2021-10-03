@@ -1,4 +1,4 @@
-## Olá sou o Vando "Seja Bem Vindo ao meu Github"
+## Olá sou o Vando "Seja Bem Vindo ao Meu GitHub"
 
 - 🔭 Estudante De Programação 
 
