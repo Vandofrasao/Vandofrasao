@@ -1,6 +1,7 @@
 ## Olá sou o Vando "Seja Bem Vindo ao meu Github"
 
-- 🔭 Estudante De Programação
+- 🔭 Estudante De Programação 
+
 -🤔 Desenvolvedor Web full Stack
 
 <div 
