@@ -1,8 +1,8 @@
 ## Olá sou o Vando "Seja Bem Vindo ao Meu GitHub"
 
-- 🔭 Estudante De Programação 
+ Estudante De Programação 
 
--🤔 Desenvolvedor Web full Stack
+ Desenvolvedor Web full Stack
 
 <div 
   <a href="https://github.com/Vandofrasao">
