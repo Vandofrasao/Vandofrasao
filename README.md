@@ -1,8 +1,6 @@
-## Olá Me Chamo Vando "Seja Bem Vindo ao Meu Perfil Do GitHub"
+Olá Me Chamo Vando "Seja Bem Vindo ao Meu Perfil Do GitHub"
 
- Estudante De Programação 
-
- Desenvolvedor Web full Stack
+Desenvolvedor Front-End
 
 <div 
   <a href="https://github.com/Vandofrasao">
