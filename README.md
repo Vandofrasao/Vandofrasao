@@ -1,6 +1,6 @@
-Olá Me Chamo Vando "Seja Bem Vindo ao Meu Perfil Do GitHub"
+  Olá Sejam Bem vindo ao Meu perfil Github   
 
-Desenvolvedor Front-End
+  Desenvolvedor Front-end	
 
 <div 
   <a href="https://github.com/Vandofrasao">
